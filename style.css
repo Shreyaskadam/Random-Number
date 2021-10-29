@@ -1,13 +1,13 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: antiquewhite;
+  background-color: rgb(228, 250, 249);
 }
 .container {
   text-align: center;
 }
 button{
-    background-color: red;
+    background-color: rgb(49, 81, 88);
     border: none;
     color: white;
     font-size: xx-large;
@@ -15,7 +15,7 @@ button{
     padding: 12px;
 }
 .number{
-    color: red;
+    color: rgb(49, 81, 88);
     font-size: x-large;
     font-weight: 800;
 }
