@@ -4,8 +4,8 @@ function generatenumber() {
   }
 
   function getRandomInt(min, max) {
-    var min = 10;
-    var max =25;
+    var min = 0;
+    var max = 100;
     var x = document.getElementById("number")
     min = Math.ceil(min);
     max = Math.floor(max);
